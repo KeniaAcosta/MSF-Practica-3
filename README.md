@@ -3,7 +3,9 @@ Practica 3: Sistema cardiovascular
 # Modelado de Sistemas Fisiológicos. Práctica 3: Sistema cardiovascular [Acosta22210407]
 ## Autor
 Acosta Berrelleza Kenia Celeste
+
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo@tectijuana.edu.mx
+
 ## Actividades
 1. Calcular analÌticamente la funciÛn de transferencia del sistema cardiovascular.
 2. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
@@ -14,6 +16,7 @@ kP,kI y kD.
 6. Determinar la respuesta a la funciÛn en el intervalo t[0,15] (segundos) en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlado
 7. Elaborar un diagrama biologico del sistema con BioRender.com
 8. Discutir los resultados obtenhidos en la experimentacion in silico y elaborar un reporte de practica.
+   
 ## Docente
 Dr. Paul A. Valle
 
