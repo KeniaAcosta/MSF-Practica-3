@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Sistema Cardiovascular [Matlab; Spyder]'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Kenia '
+    family-names: Berrelleza
+    email: L22210407@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+  - given-names: Natalie
+    family-names: Perez
+    email: L22210425@tectijuana.edu.mx
+    affiliation: ecnologico Nacional de Mexico
+repository-code: 'https://github.com/KeniaAcosta/MSF-Practica-3/tree/main'
+keywords:
+  - Controlador PID
+  - Sistema de control
+  - ' Funcion de transferencia'
+license: BSD-2-Clause
+date-released: '2025-05-02'
