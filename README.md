@@ -16,7 +16,7 @@ kP,kI y kD.
 5. Ilustrar el cambio de la presiÛn sobre la distensibilidad arterial[Pp(t)] en respuesta a la presiÛn arterial de entrada Pa(t). Utilice la funciÛn de entrada Uniform Random Number con la siguiente configuracion:min =-0.2V, max= 1V, seed= 106, sample time= 0.5.
 6. Determinar la respuesta a la funciÛn en el intervalo t[0,15] (segundos) en Python, Simulink y Multisim en lazo abierto y en lazo cerrado con el controlado
 7. Elaborar un diagrama biologico del sistema con BioRender.com
-8. Discutir los resultados obtenhidos en la experimentacion in silico y elaborar un reporte de practica.
+8. Discutir los resultados obtenhidos en la experimentacion in silico y elaborar un reporte de practica.](https://la.mathworks.com/products/matlab-online/git.html)
    
 ## Docente
 Dr. Paul A. Valle
